@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TamaWidget</string>
+    <string name="app_name">Toggle Widget</string>
+    <string name="show_text">Показать текст</string>
+    <string name="hello_world">Hello World</string>
 </resources>
